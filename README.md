@@ -25,7 +25,9 @@
   <img align="center" alt="Deivi-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
    <img align="center" alt="Deivi-Github" height="30" width="40" src="https://github.com/Deivissonxavier/dio-desafio-git-github-primeiro-repositorio/blob/master/icones/github-octocat.svg">
   <img align="center" alt="Deivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></p>
+  <img align="center" alt="Deivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Deivi-opensuse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original.svg">
+    <img align="center" alt="Deivi-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></p>
 </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
