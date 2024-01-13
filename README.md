@@ -13,6 +13,7 @@
 
 <div align="center">  
 <a href="https://instagram.com/deivisson754?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/deivisson-xavier-1795b0239/=" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
