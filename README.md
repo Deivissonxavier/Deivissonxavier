@@ -11,13 +11,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Deivissonxavier&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/deivisson.deb/?next=%2F=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center">
 <a href="https://www.linkedin.com/in/deivisson-xavier-1795b0239/=" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 <p align="center">
   <img align="center" alt="Deivi-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Deivi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
